@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a civil engineer and master on industrial automation from the [Universidad Nacional de Colombia - Sede Manizales](http://www.manizales.unal.edu.co/) and doctor in engineering from the [Leopold Franzens Universität Innsbruck, Austria](https://www.uibk.ac.at/). Currently, I work as an associate professor at the [Universidad Nacional de Colombia - Sede Manizales](http://www.manizales.unal.edu.co/) in the Department of Civil Engineering.
+I am a civil engineer and master on industrial automation from the [Universidad Nacional de Colombia - Sede Manizales](http://www.manizales.unal.edu.co/) and doctor in engineering from the [Leopold Franzens Universität Innsbruck, Austria](https://www.uibk.ac.at/). Currently, I work as an associate professor at the [Universidad Nacional de Colombia - Sede Manizales](http://www.manizales.unal.edu.co/) in the [Department of Civil Engineering](http://www.fia.unal.edu.co/index.php?option=com_content&view=article&id=243&catid=8).
 
 My research interests lie at the interface between stochastic mechanics, machine learning and applied probability and statistics. In particular, I have done and I like to do research in: bridge aerodynamics, condition monitoring, Dempster-Shafer evidence theory, digital signal processing, evolutionary algorithms, machine learning, Monte Carlo simulation, neural networks, pattern recognition, random set theory, support vector machines, stochastic processes, structural control, structural optimization, structural reliability, system identification, uncertainty analysis.
 

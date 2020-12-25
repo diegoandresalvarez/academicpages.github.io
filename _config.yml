@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : # "Welcome to Diego Andrés Alvarez Marín's homepage!"
+title                    : "Diego A. Alvarez"
 title_separator          : "-"
 name                     : &name "Diego Andrés Álvarez Marín"
 description              : &description "Associate Professor"
