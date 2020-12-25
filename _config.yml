@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Diego Andrés Álvarez Marín"
-  avatar           : "photo_daam.jpg"
-  bio              : "Associate professor"
-  employer         : "Universidad Nacional de Colombia"
+  avatar           : "photo_daam.png"
+  bio              : "Associate professor at the Universidad Nacional de Colombia - Sede Manizales, Department of Civil Engineering"
+  employer         : 
   location         : "Manizales, Colombia"  
   pubmed           : 
   googlescholar    : "https://scholar.google.com.co/citations?user=W6Lgv-0AAAAJ"
