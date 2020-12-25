@@ -92,7 +92,7 @@ author:
   uri              :
   bitbucket        :
   codepen          :
-  CVLAC            : "http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000175927"
+  cvlac            : "http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000175927"
   dribbble         :
   flickr           :
   facebook         :
@@ -257,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Bogota # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
