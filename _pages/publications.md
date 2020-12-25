@@ -73,11 +73,10 @@ Here is my complete list of publications in reverse chronological order:
 
 # Theses
 ## PhD thesis
-* Diego A. Alvarez (2007). *Infinite random sets and applications in uncertainty analysis*. Adviser: Univ.-Prof. i.R. Dr. Dr. h.c.
-Michael Oberguggenberger. Leopold-Franzens-Universität Innsbruck, Austria. Arbeitsbereich für Technische Mathematik am Institut für Grundlagen der Bauingenieurwissenschaften. Marking **EXCELLENT** (best possible grade) - defense approved with distinction (**"mit Auszeichnung bestanden"**). The reviewer of my thesis was Professor [George Klir](https://en.wikipedia.org/wiki/George_Klir).
+* Diego A. Alvarez (2007). [*Infinite random sets and applications in uncertainty analysis*](https://diegoandresalvarez.github.io/files/THESIS_random_sets.pdf). Adviser: Univ.-Prof. i.R. Dr. Dr. h.c. Michael Oberguggenberger. Leopold-Franzens-Universität Innsbruck, Austria. Arbeitsbereich für Technische Mathematik am Institut für Grundlagen der Bauingenieurwissenschaften. Marking **EXCELLENT** (best possible grade) - defense approved with distinction (**"mit Auszeichnung bestanden"**). The reviewer of my thesis was Professor [George Klir](https://en.wikipedia.org/wiki/George_Klir).
 
 ## Master thesis (master on industrial automation)
-* Diego A. Alvarez. *Stochastic structural control of a bridge subjected to wind-induced vibrations using separated surfaces*. Adviser: Prof. Dr. Jorge Eduardo Hurtado. National University of Colombia at Manizales, 2003 (Spanish version here: NOTA: la versión en inglés es la original, la versión en español es una traducción "a la carrera"). Marking **MERITORIOUS** (this marking is similar to "cum laude").
+* Diego A. Alvarez. [*Stochastic structural control of a bridge subjected to wind-induced vibrations using separated surfaces*](https://diegoandresalvarez.github.io/files/THESIS_control_bridges.pdf). Adviser: Prof. Dr. Jorge Eduardo Hurtado. National University of Colombia at Manizales, 2003 (Spanish version here: NOTA: la versión en inglés es la original, la versión en español es una traducción "a la carrera"). Marking **MERITORIOUS** (this marking is similar to "cum laude").
 
 ## Final undergraduate work (civil engineering)
 * Diego A. Alvarez. *Structural reliability assessment using artificial neural networks*. Adviser: Prof. Dr. Jorge Eduardo Hurtado. National University of Colombia at Manizales, 2000. Marking **MERITORIOUS** (this marking is similar to "cum laude").
