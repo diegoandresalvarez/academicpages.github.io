@@ -85,13 +85,14 @@ author:
   bio              : "Associate professor"
   location         : "Manizales, Colombia"
   employer         : "Universidad Nacional de Colombia"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com.co/citations?user=W6Lgv-0AAAAJ"
   email            : daalvarez@unal.edu.co
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
+  CVLAC            : "http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000175927"
   dribbble         :
   flickr           :
   facebook         :
@@ -100,11 +101,12 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7076-2727"
   pinterest        :
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=55097065400"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :

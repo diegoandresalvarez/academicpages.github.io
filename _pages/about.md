@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Diego Andrés Alvarez Marín's homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a civil engineer and master on industrial automation from the [Universidad Nacional de Colombia - Sede Manizales](http://www.manizales.unal.edu.co/) and doctor in engineering from the [Leopold Franzens Universität Innsbruck, Austria](https://www.uibk.ac.at/). Currently, I work as an associate professor at the [Universidad Nacional de Colombia - Sede Manizales](http://www.manizales.unal.edu.co/).
+
+My research interests lie at the interface between stochastic mechanics, machine learning and applied probability and statistics. In particular, I have done and I like to do research in: bridge aerodynamics, condition monitoring, Dempster-Shafer evidence theory, digital signal processing, evolutionary algorithms, machine learning, Monte Carlo simulation, neural networks, pattern recognition, random set theory, support vector machines, stochastic processes, structural control, structural optimization, structural reliability, system identification, uncertainty analysis.
 
 A data-driven personal website
 ======
